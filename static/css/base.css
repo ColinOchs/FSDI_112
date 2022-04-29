@@ -1,6 +1,9 @@
 h1{
-    color: purple;
+    color: red;
     text-decoration: underline;
-    text-decoration-color: yellow;
+    text-decoration-color: brown;
 }
-
+.content {
+    margin: 10px;
+    padding: 10px;
+}
